@@ -28,4 +28,5 @@ In the first screen, there is no phone number verification, however this number 
 ### Got any queries or suggestions
 - drop me a mail heavenly.devil09@gmail.com
 - checkout my blog: https://androiddevsimplified.wordpress.com/
-- follow me on twitter: https://twitter.com/drulabs
+- Connect on twitter, stackoverflow, github: @drulabs
+- Connect on Google: https://plus.google.com/+KaushalDhruw
