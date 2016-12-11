@@ -28,7 +28,7 @@ public interface Constants {
 
     // FCM constants
     String KEY_FCM_API = "API_KEY";
-    String FCM_API_KEY = "AIzaSyDTStcNkYlSRgwqNIRQSAe3iJDuA5cruK0";
+    String FCM_API_KEY = "AIzaSyDTStcNkYlSRgwqNIRQSXXXXXXXXXXXXXX";
     String FCM_URL = "https://fcm.googleapis.com/fcm/send";
     String FCM_REG_IDS = "registration_ids";
     String FCM_DATA = "data";
