@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#22F0ED</color>
+    <color name="lightGray">#E2EDED</color>
+    <color name="lighterGray">#CCD1D1</color>
+    <color name="pure_white">#FFFFFF</color>
+    <color name="pure_black">#000000</color>
+    <color name="lightBlue">#C8F7F7</color>
+    <color name="about_delete">#62443D</color>
+    <color name="about_edit">#3D4162</color>
+    <color name="contact_search_background">#98CB4A</color>
+    <color name="contact_search_activity_background">#f76d3c</color>
+</resources>

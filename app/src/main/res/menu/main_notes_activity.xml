@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/logout"
+        android:icon="@mipmap/ic_cancel"
+        android:title="@string/logout_text"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/add_new_note"
+        android:icon="@mipmap/ic_add"
+        android:title="@string/add_note_text"
+        app:showAsAction="never"/>
+</menu>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content_notes"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/margin_regular"
+    android:paddingLeft="@dimen/margin_regular"
+    android:paddingRight="@dimen/margin_regular"
+    android:paddingTop="@dimen/margin_regular"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="org.drulabs.syncroedit.NotesActivity"
+    tools:showIn="@layout/activity_notes">
+
+    <FrameLayout
+        android:id="@+id/notes_fragment_holder"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="visible"></FrameLayout>
+
+</RelativeLayout>

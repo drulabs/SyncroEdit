@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/note_edit_done"
+        android:icon="@mipmap/ic_done_white_circle"
+        android:title="@string/note_edit_done"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/note_edit_discard"
+        android:icon="@mipmap/ic_cancel"
+        android:title="@string/note_edit_discard"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/note_add_collaborators"
+        android:icon="@mipmap/ic_add_friends"
+        android:title="@string/add_text"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/note_add_image"
+        android:icon="@mipmap/ic_pic_image"
+        android:title="@string/add_image_text"
+        app:showAsAction="always"/>
+</menu>

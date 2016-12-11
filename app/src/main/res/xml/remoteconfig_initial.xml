@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- START xml_defaults -->
+<defaultsMap>
+    <entry>
+        <key>max_note_item_length</key>
+        <value>20</value>
+    </entry>
+    <entry>
+        <key>API_KEY</key>
+        <value>aaa</value>
+    </entry>
+    <entry>
+        <key>is_promotion_on</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>about_delete_color</key>
+        <value>#62443D</value>
+    </entry>
+    <entry>
+        <key>about_edit_color</key>
+        <value>#3D4162</value>
+    </entry>
+</defaultsMap>
+    <!-- END xml_defaults -->

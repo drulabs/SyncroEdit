@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:app="http://schemas.android.com/apk/res-auto"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/note_status_holder"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:visibility="visible">
+
+        <org.drulabs.syncroedit.ui.DruTextView
+            style="@style/regular_bigfont_wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/margin_medium"
+            android:gravity="center"
+            android:text="@string/no_note_found"/>
+
+    </LinearLayout>
+
+    <ProgressBar
+        android:id="@+id/notes_fetch_progress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:visibility="gone"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/list_notes"
+        android:name="org.drulabs.syncroedit.fragments.NotesFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"
+        app:layoutManager="LinearLayoutManager"
+        tools:context="org.drulabs.syncroedit.fragments.NotesFragment"
+        tools:listitem="@layout/layout_single_note"/>
+
+</FrameLayout>

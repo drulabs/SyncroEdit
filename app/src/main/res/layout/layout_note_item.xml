@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:layout_margin="@dimen/margin_very_small"
+              android:background="@drawable/bg_noteitem_mine"
+              android:orientation="vertical">
+
+    <org.drulabs.syncroedit.ui.DruTextView
+        android:id="@+id/tv_note_item_content"
+        style="@style/regular_mediumfont_wrap_content"
+        android:layout_margin="@dimen/margin_small"
+        tools:text="Pick up groceries"/>
+
+    <org.drulabs.syncroedit.ui.DruTextView
+        android:id="@+id/tv_note_item_by"
+        style="@style/regular_vsmallfont_wrap_content"
+        android:layout_width="match_parent"
+        android:layout_marginBottom="@dimen/margin_small"
+        android:layout_marginEnd="@dimen/margin_small"
+        android:layout_marginLeft="@dimen/margin_small"
+        android:layout_marginRight="@dimen/margin_small"
+        android:layout_marginStart="@dimen/margin_small"
+        android:gravity="right|end"
+        tools:text="Kaushal Dhruw"/>
+
+</LinearLayout>

@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">SyncroEdit</string>
+    <string name="title_activity_notes">NotesActivity</string>
+    <string name="sign_in_text">Log in using any of the services</string>
+    <string name="no_note_found">No notes found. Click on the plus icon (+) below to create a new
+        note</string>
+    <string name="text_add_new_note">Add / edit a note</string>
+    <!--<string name="text_add_new_note_list">Add / edit a note (List)</string>-->
+    <!--<string name="text_add_new_note_para">Add / edit a note (Text)</string>-->
+    <!--<string name="text_add_new_note_canvas">Add / edit a note (Whiteboard)</string>-->
+    <!--<string name="text_add_new_note_pic">Add / edit a note (Image)</string>-->
+    <string name="text_edit_note">Edit note</string>
+    <string name="text_note_title">Enter note title</string>
+    <string name="enter_note_text">Note text</string>
+    <string name="text_add_para">Add text or a paragraph or write a song you like...</string>
+    <string name="note_edit_done">done</string>
+    <string name="note_edit_discard">discard</string>
+    <string name="empty_note_item_msg">Note text field cannot be left empty</string>
+    <string name="note_saved_msg">Note saved successfully</string>
+    <string name="note_save_Failure_msg">Failed to save note. Try again later</string>
+    <string name="note_title_empty_msg">Note title cannot be empty</string>
+    <string name="list_limit_reached_msg">Item limit is reached, try deleting some before
+        adding</string>
+    <string name="logout_text">Logout</string>
+    <string name="add_note_text">Add new note</string>
+    <string name="my_notes_text">My notes</string>
+    <string name="note_item_deleted_msg">Entry has been deleted</string>
+    <string name="note_deleted_msg">Note deleted successfully</string>
+    <string name="note_collaborator_removed_msg">You are no longer a collaborator of this
+        note</string>
+    <string name="phone_verification_title">Phone verification</string>
+    <string name="enter_phone_number">Full phone number (e.g. +1408555XXXX)</string>
+    <string name="verify_text">Verify</string>
+    <string name="sms_charge_msg">Please make sure phone number is correct.\n**Carrier sms
+        charges may apply</string>
+    <string name="enter_otp_hint">Enter otp received as sms</string>
+    <string name="contact_read_failed_msg">Cannot read device contacts</string>
+    <string name="add_text">add</string>
+    <string name="empty_note_add_collaborator_error">Please add at least one item before adding
+        other collaborators</string>
+    <string name="not_app_user_msg">Selected contact is not an app user yet</string>
+    <string name="add_image_text">Image</string>
+    <string name="loading_note_image">Loading image...</string>
+    <string name="loading">Loading...</string>
+    <string name="search_hint">Search</string>
+    <string name="note_collab_notif_content" formatted="false">%s has invited you to edit \"%s\"</string>
+    <string name="note_collab_notif_title">New note collboration request</string>
+    <string name="not_note_admin_add_collaborators_msg">Cannot add collaborators. You are not ADMIN of this note.</string>
+    <string name="admin_deleted_note_msg">Note admin has deleted this note</string>
+    <string name="action_settings">settings</string>
+    <string name="contacts">Contacts</string>
+    <string-array name="countrylist">
+        <item name="india">
+            <iso>IN</iso>
+            <code>+91</code>
+        </item>
+    </string-array>
+</resources>
