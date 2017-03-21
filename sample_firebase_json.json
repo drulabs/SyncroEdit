@@ -1,0 +1,593 @@
+{
+	"user_base": {
+		"7l0qhDQpXlM9N3GM40BlXHJwULy2": {
+			"email": "kaushal.xxxx@gmail.com (hidden)",
+			"fcmToken": "sample_fcm_token(hidden)",
+			"name": "Kaushal Dhruw",
+			"notes": {
+				"-BCD_inserted_manually": "7l0qhDQpXlM9N3GM40BlXHJwULy21475478389522",
+				"-KTPGbkDD05pX93WE7fm": "7l0qhDQpXlM9N3GM40BlXHJwULy21475762066027",
+				"-KTTWRoNAEFXvoSsttdS": "7l0qhDQpXlM9N3GM40BlXHJwULy21475833340487",
+				"-KVmbr-YgxFjAKx4dor8": "7l0qhDQpXlM9N3GM40BlXHJwULy21478318046644",
+				"-KY8X2VmJXPSFjUSwLHB": "UrdwiBmFV2d9WGKuI0I0IcqgERK21480849387031",
+				"-KY8YLDy5mMY6A-mnpzd": "UrdwiBmFV2d9WGKuI0I0IcqgERK21480850194071",
+				"-KYcLLSs7YnT0SMmJaOE": "GQBMyPXqfveslJf0IjjOEHJQ4sU21481366433119",
+				"-KYgL_N5e0lhBddUxecO": "GQBMyPXqfveslJf0IjjOEHJQ4sU21481434072823",
+				"-KYgqpznT9WsWMjHOv6E": "7l0qhDQpXlM9N3GM40BlXHJwULy21481442544716",
+				"-KYgqrKbKeMHtVSqEiWk": "7l0qhDQpXlM9N3GM40BlXHJwULy21481442544716"
+			},
+			"phone": "987XXXXXXX(hidden)",
+			"photoUrl": "some_url.jpg(hidden)",
+			"serviceProviderId": "firebase",
+			"services": [{
+				"connected": false,
+				"serviceName": "facebook"
+			}, {
+				"connected": false,
+				"serviceName": "twitter"
+			}, {
+				"connected": false,
+				"serviceName": "github"
+			}, {
+				"accessSecret": "google_access_secret(hidden)",
+				"accessToken": "google_access_token(hidden)",
+				"connected": true,
+				"serviceName": "google"
+			}],
+			"signInServiceType": "google",
+			"userId": "7l0qhDQpXlM9N3GM40BlXHJwULy2"
+		},
+		"GQBMyPXqfveslJf0IjjOEHJQ4sU2": {
+			"email": "lordjon.snowxxxx@gmail.com(hidden)",
+			"fcmToken": "some token (hidden)",
+			"name": "John Snow",
+			"notes": {
+				"-KYRD_lK6URgrkjx-wTT": "GQBMyPXqfveslJf0IjjOEHJQ4sU21481163557040",
+				"-KYcJVUSniHs0YTATdjR": "GQBMyPXqfveslJf0IjjOEHJQ4sU21481366433119",
+				"-KYgLWFiiVfL89-6uJOm": "GQBMyPXqfveslJf0IjjOEHJQ4sU21481434072823",
+				"-KYgqvSr8Ig0BXt-kmzk": "7l0qhDQpXlM9N3GM40BlXHJwULy21481442544716"
+			},
+			"phone": "8971XXXXXX(hidden)",
+			"photoUrl": "someurl.jpg(hidden)",
+			"serviceProviderId": "firebase",
+			"services": [{
+				"connected": false,
+				"serviceName": "facebook"
+			}, {
+				"connected": false,
+				"serviceName": "twitter"
+			}, {
+				"connected": false,
+				"serviceName": "github"
+			}, {
+				"accessSecret": "1136668965XXXXXXXXX (hidden)",
+				"accessToken": "XXXXXXX (hidden)",
+				"connected": true,
+				"serviceName": "google"
+			}],
+			"signInServiceType": "google",
+			"userId": "GQBMyPXqfveslJf0IjjOEHJQ4sU2"
+		},
+		"IZWBQBr2DDUm6Vl7pVOnGrl3UC22": {
+			"email": "shashXXXXX@gmail.com(hidden)",
+			"fcmToken": "some token (hidden)",
+			"name": "Narayanan",
+			"notes": {
+				"-JIKjhg768767_manual": "UrdwiBmFV2d9WGKuI0I0IcqgERK21481426438648",
+				"-KYAOuYaHscijOHRQfAU": "UrdwiBmFV2d9WGKuI0I0IcqgERK21480850194071",
+				"-KYftLdxStGpjPCB9e4s": "IZWBQBr2DDUm6Vl7pVOnGrl3UC221481426424592"
+			},
+			"phone": "968XXXXXXX(hidden)",
+			"photoUrl": "someurl/photo.jpg(hidden)",
+			"serviceProviderId": "firebase",
+			"services": [{
+				"connected": false,
+				"serviceName": "facebook"
+			}, {
+				"connected": false,
+				"serviceName": "twitter"
+			}, {
+				"connected": false,
+				"serviceName": "github"
+			}, {
+				"accessSecret": "1030370XXXXXX(hidden)",
+				"accessToken": "eyJhbGciOiJSU(hidden)",
+				"connected": true,
+				"serviceName": "google"
+			}],
+			"signInServiceType": "google",
+			"userId": "IZWBQBr2DDUm6Vl7pVOnGrl3UC22"
+		},
+		"UrdwiBmFV2d9WGKuI0I0IcqgERK2": {
+			"email": "kaXXXXXXXXvil009@gmail.com(hidden)",
+			"fcmToken": "ejwkJqICnWA:(hidden)",
+			"name": "Kaushal Dhruw",
+			"notes": {
+				"-KY8V7w7hkVb_mQoOlGz": "UrdwiBmFV2d9WGKuI0I0IcqgERK21480849387031",
+				"-KY8VjlqJ_mY5psH-ETe": "7l0qhDQpXlM9N3GM40BlXHJwULy21475833340487",
+				"-KY8YD3jAJ3aqfC3yM2b": "UrdwiBmFV2d9WGKuI0I0IcqgERK21480850194071",
+				"-KYRBZtb4nH7pKW0WXwf": "GQBMyPXqfveslJf0IjjOEHJQ4sU21481141162896",
+				"-KYcJaOO1cCQQqA11Wvr": "GQBMyPXqfveslJf0IjjOEHJQ4sU21481366433119",
+				"-KYcKOUlW38HdNj2hOA1": "GQBMyPXqfveslJf0IjjOEHJQ4sU21481366433119",
+				"-KYftPmlEUzguWnqmwU2": "UrdwiBmFV2d9WGKuI0I0IcqgERK21481426438648",
+				"-KYftauzT0VK_ZArhPRj": "IZWBQBr2DDUm6Vl7pVOnGrl3UC221481426424592"
+			},
+			"phone": "991XXXXXX(hidden)",
+			"photoUrl": "someurl/photo.jpg(hidden)",
+			"serviceProviderId": "firebase",
+			"services": [{
+				"connected": false,
+				"serviceName": "facebook"
+			}, {
+				"connected": false,
+				"serviceName": "twitter"
+			}, {
+				"connected": false,
+				"serviceName": "github"
+			}, {
+				"accessSecret": "114803222XXXXXX(hidden)",
+				"accessToken": "eyJhbGciOiJSUzI1NiIsImtpZ(hidden)",
+				"connected": true,
+				"serviceName": "google"
+			}],
+			"signInServiceType": "google",
+			"userId": "UrdwiBmFV2d9WGKuI0I0IcqgERK2"
+		}
+	},
+	"user_notes": {
+		"7l0qhDQpXlM9N3GM40BlXHJwULy21475478389522": {
+			"allowed_users": {},
+			"createdByUser": "Kaushal Dhruw",
+			"createdByUserId": "7l0qhDQpXlM9N3GM40BlXHJwULy2",
+			"data": "Created by Kaushal Dhruw",
+			"id": "7l0qhDQpXlM9N3GM40BlXHJwULy21475478389522",
+			"items": {
+				"-KT8MaZOuhs11UTEvA1Y": {
+					"addedByUser": "Kaushal Dhruw",
+					"addedByUserId": "7l0qhDQpXlM9N3GM40BlXHJwULy2",
+					"data": "crab cakes",
+					"noteItemId": "-KT8MaZOuhs11UTEvA1Y",
+					"timestamp": 1475478448046
+				},
+				"-KT8MdLMfrfgIzGjLEBZ": {
+					"addedByUser": "Kaushal Dhruw",
+					"addedByUserId": "7l0qhDQpXlM9N3GM40BlXHJwULy2",
+					"data": "crap of holy cow",
+					"noteItemId": "-KT8MdLMfrfgIzGjLEBZ",
+					"timestamp": 1475478459436
+				},
+				"-KT8MfC17H0b2Proo863": {
+					"addedByUser": "Kaushal Dhruw",
+					"addedByUserId": "7l0qhDQpXlM9N3GM40BlXHJwULy2",
+					"data": "lots of milk and curd",
+					"noteItemId": "-KT8MfC17H0b2Proo863",
+					"timestamp": 1475584412766
+				},
+				"-KT8Mgn_OJOHAnvEUWSk": {
+					"addedByUser": "Kaushal Dhruw",
+					"addedByUserId": "7l0qhDQpXlM9N3GM40BlXHJwULy2",
+					"data": "pneumonia",
+					"noteItemId": "-KT8Mgn_OJOHAnvEUWSk",
+					"timestamp": 1475478473593
+				},
+				"-KT8Mk66g1vmcCCLdIfL": {
+					"addedByUser": "Kaushal Dhruw",
+					"addedByUserId": "7l0qhDQpXlM9N3GM40BlXHJwULy2",
+					"data": "puree with ghee",
+					"noteItemId": "-KT8Mk66g1vmcCCLdIfL",
+					"timestamp": 1475584355187
+				}
+			},
+			"localTimeStamp": 1475584476034,
+			"noteType": 1,
+			"title": "Grocery list for October 2016"
+		},
+		"7l0qhDQpXlM9N3GM40BlXHJwULy21475762066027": {
+			"allowed_users": {},
+			"createdByUser": "Kaushal Dhruw",
+			"createdByUserId": "7l0qhDQpXlM9N3GM40BlXHJwULy2",
+			"data": "Created by Kaushal Dhruw",
+			"id": "7l0qhDQpXlM9N3GM40BlXHJwULy21475762066027",
+			"items": {
+				"-JOIPOI789LOI": {
+					"addedByUser": "Mr. Pichai",
+					"addedByUserId": "78dfdjhfeufyeuf",
+					"data": "google and android Nougat",
+					"noteItemId": "-JOIPOI789LOI",
+					"timestamp": 1475762157233
+				},
+				"-KTPGhvHytYOTZYP4U9A": {
+					"addedByUser": "Kaushal Dhruw",
+					"addedByUserId": "7l0qhDQpXlM9N3GM40BlXHJwULy2",
+					"data": "node.js",
+					"noteItemId": "-KTPGhvHytYOTZYP4U9A",
+					"timestamp": 1475762117256
+				},
+				"-KTPGlKgqKnkQ6BczxPJ": {
+					"addedByUser": "Kaushal Dhruw",
+					"addedByUserId": "7l0qhDQpXlM9N3GM40BlXHJwULy2",
+					"data": "python and related shit",
+					"noteItemId": "-KTPGlKgqKnkQ6BczxPJ",
+					"timestamp": 1475762639564
+				},
+				"-MNO2323WXCF": {
+					"addedByUser": "Ramanujam",
+					"addedByUserId": "8734wdheygeuy89",
+					"data": "photo-electric effect",
+					"noteItemId": "-MNO2323WXCF",
+					"timestamp": 1475762123256
+				},
+				"-PQR374DES": {
+					"addedByUser": "Albert Einstein",
+					"addedByUserId": "gydfsdfsdf8s7dfsdfh",
+					"data": "operating system",
+					"noteItemId": "-PQR374DES",
+					"timestamp": 1475762119256
+				}
+			},
+			"localTimeStamp": 1475762792494,
+			"noteType": 1,
+			"title": "Todo list october 16"
+		},
+		"7l0qhDQpXlM9N3GM40BlXHJwULy21475833340487": {
+			"allowed_users": {
+				"-KY8VjlmjbWhblsrcbD6": "UrdwiBmFV2d9WGKuI0I0IcqgERK2"
+			},
+			"createdByUser": "Kaushal Dhruw",
+			"createdByUserId": "7l0qhDQpXlM9N3GM40BlXHJwULy2",
+			"data": "Created by Kaushal Dhruw",
+			"id": "7l0qhDQpXlM9N3GM40BlXHJwULy21475833340487",
+			"items": {
+				"-KTTWX68IUAWRLRquGu0": {
+					"addedByUser": "Kaushal Dhruw",
+					"addedByUserId": "7l0qhDQpXlM9N3GM40BlXHJwULy2",
+					"data": "the hero called saitama",
+					"noteItemId": "-KTTWX68IUAWRLRquGu0",
+					"timestamp": 1475833373041
+				},
+				"-KTTWaYBENWF50qsmuFs": {
+					"addedByUser": "Kaushal Dhruw",
+					"addedByUserId": "7l0qhDQpXlM9N3GM40BlXHJwULy2",
+					"data": "his sidekick the cyborg boy",
+					"noteItemId": "-KTTWaYBENWF50qsmuFs",
+					"timestamp": 1475833391219
+				},
+				"-KTTWfUs1pWoI9jXXOpP": {
+					"addedByUser": "Kaushal Dhruw",
+					"addedByUserId": "UrdwiBmFV2d9WGKuI0I0IcqgERK2",
+					"data": "the modified note",
+					"noteItemId": "-KTTWfUs1pWoI9jXXOpP",
+					"timestamp": 1480849628427
+				},
+				"-KY8W3Y4K3xpzzr05PPX": {
+					"addedByUser": "Kaushal Dhruw",
+					"addedByUserId": "UrdwiBmFV2d9WGKuI0I0IcqgERK2",
+					"data": "what do u mean",
+					"noteItemId": "-KY8W3Y4K3xpzzr05PPX",
+					"timestamp": 1480849791255
+				},
+				"-KY8WUZnNrZWKDiffxCo": {
+					"addedByUser": "Kaushal Dhruw",
+					"addedByUserId": "UrdwiBmFV2d9WGKuI0I0IcqgERK2",
+					"data": "it's not over man",
+					"noteItemId": "-KY8WUZnNrZWKDiffxCo",
+					"timestamp": 1480849750190
+				}
+			},
+			"localTimeStamp": 1480849629110,
+			"noteType": 1,
+			"title": "one punch man"
+		},
+		"7l0qhDQpXlM9N3GM40BlXHJwULy21478318046644": {
+			"allowed_users": {
+				"-KYcJphmxEYzrZTzaHah": "GQBMyPXqfveslJf0IjjOEHJQ4sU2"
+			},
+			"createdByUser": "Kaushal Dhruw",
+			"createdByUserId": "7l0qhDQpXlM9N3GM40BlXHJwULy2",
+			"data": "Created by Kaushal Dhruw",
+			"id": "7l0qhDQpXlM9N3GM40BlXHJwULy21478318046644",
+			"items": {
+				"-KVmcBsKPk6xMd2-xz8Z": {
+					"addedByUser": "Kaushal Dhruw",
+					"addedByUserId": "7l0qhDQpXlM9N3GM40BlXHJwULy2",
+					"data": "egg n bread",
+					"noteItemId": "-KVmcBsKPk6xMd2-xz8Z",
+					"timestamp": 1478318148322
+				}
+			},
+			"localTimeStamp": 1478318058420,
+			"noteType": 1,
+			"title": "grocery list 5 nov 16"
+		},
+		"7l0qhDQpXlM9N3GM40BlXHJwULy21481442544716": {
+			"allowed_users": {
+				"-KYgqrK_hJb4tb9Xb8yI": "7l0qhDQpXlM9N3GM40BlXHJwULy2",
+				"-KYgqvSqxbydHGK_XGRl": "GQBMyPXqfveslJf0IjjOEHJQ4sU2"
+			},
+			"createdByUser": "Kaushal Dhruw",
+			"createdByUserId": "7l0qhDQpXlM9N3GM40BlXHJwULy2",
+			"data": "Created by Kaushal Dhruw",
+			"id": "7l0qhDQpXlM9N3GM40BlXHJwULy21481442544716",
+			"items": {
+				"-KYgr2K9Q59Ky7haV0rk": {
+					"addedByUser": "Kaushal Dhruw",
+					"addedByUserId": "7l0qhDQpXlM9N3GM40BlXHJwULy2",
+					"data": "tsjsod",
+					"noteItemId": "-KYgr2K9Q59Ky7haV0rk",
+					"timestamp": 1481442604009
+				},
+				"-KYgr2_cTk7VcDfWlMyb": {
+					"addedByUser": "Kaushal Dhruw",
+					"addedByUserId": "7l0qhDQpXlM9N3GM40BlXHJwULy2",
+					"data": "hdkdns",
+					"noteItemId": "-KYgr2_cTk7VcDfWlMyb",
+					"timestamp": 1481442605063
+				}
+			},
+			"localTimeStamp": 1481442549064,
+			"noteType": 1,
+			"title": "the jwniWk"
+		},
+		"GQBMyPXqfveslJf0IjjOEHJQ4sU21481163557040": {
+			"createdByUser": "John Snow",
+			"createdByUserId": "GQBMyPXqfveslJf0IjjOEHJQ4sU2",
+			"data": "Created by John Snow",
+			"id": "GQBMyPXqfveslJf0IjjOEHJQ4sU21481163557040",
+			"items": {
+				"-KYRDaU1Ewui9sKUDdLq": {
+					"addedByUser": "John Snow",
+					"addedByUserId": "GQBMyPXqfveslJf0IjjOEHJQ4sU2",
+					"data": "tiki we'd oh as",
+					"noteItemId": "-KYRDaU1Ewui9sKUDdLq",
+					"timestamp": 1481163565977
+				},
+				"-KYRDbSje1IMmVmRzYou": {
+					"addedByUser": "John Snow",
+					"addedByUserId": "GQBMyPXqfveslJf0IjjOEHJQ4sU2",
+					"data": "VK on EV jk av HK av I'll egg oh egg oh egg",
+					"noteItemId": "-KYRDbSje1IMmVmRzYou",
+					"timestamp": 1481163569989
+				},
+				"-KYRDcLbR8ICtjP_sq4C": {
+					"addedByUser": "John Snow",
+					"addedByUserId": "GQBMyPXqfveslJf0IjjOEHJQ4sU2",
+					"data": "fu free jk DG UK AC AC HK av HK as",
+					"noteItemId": "-KYRDcLbR8ICtjP_sq4C",
+					"timestamp": 1481163573631
+				}
+			},
+			"localTimeStamp": 1481163562633,
+			"noteType": 1,
+			"title": "TDK add in"
+		},
+		"GQBMyPXqfveslJf0IjjOEHJQ4sU21481366433119": {
+			"allowed_users": {
+				"-KYcLLSs7YnT0SMmJaOD": "7l0qhDQpXlM9N3GM40BlXHJwULy2"
+			},
+			"createdByUser": "John Snow",
+			"createdByUserId": "GQBMyPXqfveslJf0IjjOEHJQ4sU2",
+			"data": "Created by John Snow",
+			"id": "GQBMyPXqfveslJf0IjjOEHJQ4sU21481366433119",
+			"items": {
+				"-KYcJXTAd5SqUdNLzZgq": {
+					"addedByUser": "John Snow",
+					"addedByUserId": "GQBMyPXqfveslJf0IjjOEHJQ4sU2",
+					"data": "a quick brown fox",
+					"noteItemId": "-KYcJXTAd5SqUdNLzZgq",
+					"timestamp": 1481366449805
+				},
+				"-KYcLSzSQjOTnzNsPwj8": {
+					"addedByUser": "Kaushal Dhruw",
+					"addedByUserId": "7l0qhDQpXlM9N3GM40BlXHJwULy2",
+					"data": "jumps over a lazy dog",
+					"noteItemId": "-KYcLSzSQjOTnzNsPwj8",
+					"timestamp": 1481366953249
+				},
+				"-KYcLWBHtqhVWn2MX7hs": {
+					"addedByUser": "Kaushal Dhruw",
+					"addedByUserId": "7l0qhDQpXlM9N3GM40BlXHJwULy2",
+					"data": "and kills it",
+					"noteItemId": "-KYcLWBHtqhVWn2MX7hs",
+					"timestamp": 1481368193747
+				},
+				"-KYcLdVWs-CehUHYJFSX": {
+					"addedByUser": "John Snow",
+					"addedByUserId": "GQBMyPXqfveslJf0IjjOEHJQ4sU2",
+					"data": "HSBC Feb run JH",
+					"noteItemId": "-KYcLdVWs-CehUHYJFSX",
+					"timestamp": 1481367002915
+				}
+			},
+			"localTimeStamp": 1481368189402,
+			"noteType": 1,
+			"title": "foxy note"
+		},
+		"GQBMyPXqfveslJf0IjjOEHJQ4sU21481434072823": {
+			"allowed_users": {
+				"-KYgL_N3fmpZRZOetcKN": "7l0qhDQpXlM9N3GM40BlXHJwULy2"
+			},
+			"createdByUser": "John Snow",
+			"createdByUserId": "GQBMyPXqfveslJf0IjjOEHJQ4sU2",
+			"data": "Created by John Snow",
+			"id": "GQBMyPXqfveslJf0IjjOEHJQ4sU21481434072823",
+			"items": {
+				"-KYgLXcL-DQx8Uw--Bv0": {
+					"addedByUser": "John Snow",
+					"addedByUserId": "GQBMyPXqfveslJf0IjjOEHJQ4sU2",
+					"data": "take note",
+					"noteItemId": "-KYgLXcL-DQx8Uw--Bv0",
+					"timestamp": 1481434084525
+				},
+				"-KYgLYk-P8hIuRqEd5Dz": {
+					"addedByUser": "John Snow",
+					"addedByUserId": "GQBMyPXqfveslJf0IjjOEHJQ4sU2",
+					"data": "real time databse",
+					"noteItemId": "-KYgLYk-P8hIuRqEd5Dz",
+					"timestamp": 1481434089111
+				},
+				"-KYgLcvDF6p1QfYYbHOM": {
+					"addedByUser": "Kaushal Dhruw",
+					"addedByUserId": "7l0qhDQpXlM9N3GM40BlXHJwULy2",
+					"data": "auth",
+					"noteItemId": "-KYgLcvDF6p1QfYYbHOM",
+					"timestamp": 1481434106475
+				},
+				"-KYgTPeUUOx-S_ZSqB_y": {
+					"addedByUser": "Kaushal Dhruw",
+					"addedByUserId": "7l0qhDQpXlM9N3GM40BlXHJwULy2",
+					"data": "ycycucuf",
+					"noteItemId": "-KYgTPeUUOx-S_ZSqB_y",
+					"timestamp": 1481436145212
+				},
+				"-KYgTREvCQzjd0X7eA9d": {
+					"addedByUser": "John Snow",
+					"addedByUserId": "GQBMyPXqfveslJf0IjjOEHJQ4sU2",
+					"data": "xyxud",
+					"noteItemId": "-KYgTREvCQzjd0X7eA9d",
+					"timestamp": 1481436155537
+				}
+			},
+			"localTimeStamp": 1481436153787,
+			"noteType": 1,
+			"title": "meetup firebase"
+		},
+		"IZWBQBr2DDUm6Vl7pVOnGrl3UC221481426424592": {
+			"allowed_users": {
+				"-KYftauzT0VK_ZArhPRi": "UrdwiBmFV2d9WGKuI0I0IcqgERK2"
+			},
+			"createdByUser": "Narayanan",
+			"createdByUserId": "IZWBQBr2DDUm6Vl7pVOnGrl3UC22",
+			"data": "Created by Narayanan",
+			"id": "IZWBQBr2DDUm6Vl7pVOnGrl3UC221481426424592",
+			"items": {
+				"-KYftQci581vX8YxpHrN": {
+					"addedByUser": "Narayanan",
+					"addedByUserId": "IZWBQBr2DDUm6Vl7pVOnGrl3UC22",
+					"data": "iOS testing",
+					"noteItemId": "-KYftQci581vX8YxpHrN",
+					"timestamp": 1481426450760
+				},
+				"-KYftTIG4oeU9XdYVFlC": {
+					"addedByUser": "Narayanan",
+					"addedByUserId": "IZWBQBr2DDUm6Vl7pVOnGrl3UC22",
+					"data": "basics and beyond",
+					"noteItemId": "-KYftTIG4oeU9XdYVFlC",
+					"timestamp": 1481426461676
+				},
+				"-KYftsvyCa7yuxoKMMG5": {
+					"addedByUser": "Kaushal Dhruw",
+					"addedByUserId": "UrdwiBmFV2d9WGKuI0I0IcqgERK2",
+					"data": "Gradle power android",
+					"noteItemId": "-KYftsvyCa7yuxoKMMG5",
+					"timestamp": 1481426569659
+				}
+			},
+			"localTimeStamp": 1481426514310,
+			"noteType": 1,
+			"title": "mobile meetups"
+		},
+		"UrdwiBmFV2d9WGKuI0I0IcqgERK21480849387031": {
+			"allowed_users": {
+				"-KY8X2Vhy7gsIzqjJjGi": "7l0qhDQpXlM9N3GM40BlXHJwULy2"
+			},
+			"createdByUser": "Kaushal Dhruw",
+			"createdByUserId": "UrdwiBmFV2d9WGKuI0I0IcqgERK2",
+			"data": "Created by Kaushal Dhruw",
+			"id": "UrdwiBmFV2d9WGKuI0I0IcqgERK21480849387031",
+			"items": {
+				"-KY8V9TISaSbPEb4oP_Y": {
+					"addedByUser": "Kaushal Dhruw",
+					"addedByUserId": "UrdwiBmFV2d9WGKuI0I0IcqgERK2",
+					"data": "what is it",
+					"noteItemId": "-KY8V9TISaSbPEb4oP_Y",
+					"timestamp": 1480849401613
+				},
+				"-KY8VAfYlwQD_dL_r6hr": {
+					"addedByUser": "Kaushal Dhruw",
+					"addedByUserId": "7l0qhDQpXlM9N3GM40BlXHJwULy2",
+					"data": "when can we meet? never",
+					"noteItemId": "-KY8VAfYlwQD_dL_r6hr",
+					"timestamp": 1480849929939
+				},
+				"-KY8VBLLuT9P4rdCL_uv": {
+					"addedByUser": "Kaushal Dhruw",
+					"addedByUserId": "UrdwiBmFV2d9WGKuI0I0IcqgERK2",
+					"data": "what is dp",
+					"noteItemId": "-KY8VBLLuT9P4rdCL_uv",
+					"timestamp": 1480849409297
+				},
+				"-KY8VCWFWpAewTfVK43o": {
+					"addedByUser": "Kaushal Dhruw",
+					"addedByUserId": "UrdwiBmFV2d9WGKuI0I0IcqgERK2",
+					"data": "who is Clara?",
+					"noteItemId": "-KY8VCWFWpAewTfVK43o",
+					"timestamp": 1480849414091
+				}
+			},
+			"localTimeStamp": 1480849920670,
+			"noteType": 1,
+			"title": "the new note"
+		},
+		"UrdwiBmFV2d9WGKuI0I0IcqgERK21480850194071": {
+			"allowed_users": {
+				"-KY8YLDxbhZEmz4qXjms": "7l0qhDQpXlM9N3GM40BlXHJwULy2",
+				"-KYAOuYYi3Z_XYnMwd1N": "IZWBQBr2DDUm6Vl7pVOnGrl3UC22"
+			},
+			"createdByUser": "Kaushal Dhruw",
+			"createdByUserId": "UrdwiBmFV2d9WGKuI0I0IcqgERK2",
+			"data": "Created by Kaushal Dhruw",
+			"id": "UrdwiBmFV2d9WGKuI0I0IcqgERK21480850194071",
+			"items": {
+				"-KY8YGRsDY80_D1ilUEh": {
+					"addedByUser": "Kaushal Dhruw",
+					"addedByUserId": "UrdwiBmFV2d9WGKuI0I0IcqgERK2",
+					"data": "lage bushin",
+					"noteItemId": "-KY8YGRsDY80_D1ilUEh",
+					"timestamp": 1480850216627
+				},
+				"-KYAPEw5Lo4QRpP7MPa1": {
+					"addedByUser": "Narayanan",
+					"addedByUserId": "IZWBQBr2DDUm6Vl7pVOnGrl3UC22",
+					"data": "ruddy did if gun",
+					"noteItemId": "-KYAPEw5Lo4QRpP7MPa1",
+					"timestamp": 1480881401049
+				},
+				"-KYAPIkGICRB66DQvNlu": {
+					"addedByUser": "Kaushal Dhruw",
+					"addedByUserId": "7l0qhDQpXlM9N3GM40BlXHJwULy2",
+					"data": "dvdvddb",
+					"noteItemId": "-KYAPIkGICRB66DQvNlu",
+					"timestamp": 1480881417331
+				}
+			},
+			"localTimeStamp": 1480881412485,
+			"noteType": 1,
+			"title": "yoshimitusu"
+		},
+		"UrdwiBmFV2d9WGKuI0I0IcqgERK21481426438648": {
+			"createdByUser": "Kaushal Dhruw",
+			"createdByUserId": "UrdwiBmFV2d9WGKuI0I0IcqgERK2",
+			"data": "Created by Kaushal Dhruw",
+			"id": "UrdwiBmFV2d9WGKuI0I0IcqgERK21481426438648",
+			"items": {
+				"-KYftWrtOmE4bsIjD8Sk": {
+					"addedByUser": "Kaushal Dhruw",
+					"addedByUserId": "UrdwiBmFV2d9WGKuI0I0IcqgERK2",
+					"data": "Kaushal Dhruw",
+					"noteItemId": "-KYftWrtOmE4bsIjD8Sk",
+					"timestamp": 1481426475189
+				},
+				"-KYftZ2f7EiD7UKUZrA-": {
+					"addedByUser": "Kaushal Dhruw",
+					"addedByUserId": "UrdwiBmFV2d9WGKuI0I0IcqgERK2",
+					"data": "Shakti moyal",
+					"noteItemId": "-KYftZ2f7EiD7UKUZrA-",
+					"timestamp": 1481426484136
+				}
+			},
+			"localTimeStamp": 1481426445885,
+			"noteType": 1,
+			"title": "talentica"
+		}
+	}
+}
